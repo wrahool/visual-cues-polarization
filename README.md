@@ -1,4 +1,5 @@
-# visual-cues-polarization
+# Visual Cues and Political Polarization
+
 Replication material for visual cues project. Please set the root folder of this cloned git folder as the working directory.
 
 All scripts have been tested with R 4.3.3
